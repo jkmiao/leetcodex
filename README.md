@@ -1,11 +1,12 @@
 # leetcodex
 solving leetcode exercise in [leetcode.com]("https://leetcode.com/problemset/algorithms/")
+====
 
-** python **
+**python**
 mainly using python
 
-
+----
 > all the best wishes
-jkmiao@2016
+> jkmiao &copy;2016
 
 
