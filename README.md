@@ -7,7 +7,7 @@ solving leetcode exercise in [leetcode.com](https://leetcode.com/problemset/algo
 ### python
 mainly using python 
 
-> jkmiao &copy;2016 
+> jkmiao &copy;2016   
  [all the best wishes](#)
 
 
