@@ -5,12 +5,10 @@ solving leetcode exercise in [leetcode.com](https://leetcode.com/problemset/algo
 
 
 ### python
-
 mainly using python 
 
-----
-
-> all the best wishes 
 > jkmiao &copy;2016 
+ [all the best wishes](null-link)
+
 
 
