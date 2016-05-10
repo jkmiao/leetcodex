@@ -8,7 +8,7 @@ solving leetcode exercise in [leetcode.com](https://leetcode.com/problemset/algo
 mainly using python 
 
 > jkmiao &copy;2016 
- [all the best wishes](null-link)
+ [all the best wishes](#)
 
 
 
