@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+# coding=utf-8
+
+from __future__ import print_function
+from __future__ import division
+from __future__ import absolute_import
+
+import gzip
+import os
+import tempfile
+
+import numpy
+
+from six.moves import urllib, xrange
+import tensorflow as tf
+from tensorflow.contrib.learn.python.learn.datasets.mnist import read_data_sets
