@@ -4,6 +4,12 @@
 import re
 import argparse
 
+
+"""
+字符串任意加括号改变计算顺序，获取所有可能计算结果
+"""
+
+
 class Solution(object):
     def diffWaysToCompute(self, input):
         """
